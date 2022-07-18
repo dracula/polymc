@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [PolyMC](https://polymc.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [PolyMC](https://polymc.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/PolyMC](https://draculatheme.com/PolyMC).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Lutitious/dracula-polymc/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Lutitious](https://github.com/lutitious.png?size=100)](https://github.com/lutitious) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Lutitious](https://github.com/lutitious)                                               |
 
 ## Community
 
