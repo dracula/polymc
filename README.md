@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/PolyMC](https://draculatheme.com/PolyMC).
+All instructions can be found at [draculatheme.com/polymc](https://draculatheme.com/polymc).
 
 ## Team
 
